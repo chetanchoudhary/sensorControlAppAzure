@@ -1,0 +1,7 @@
+{
+  "name": "SensorControl_Azure",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

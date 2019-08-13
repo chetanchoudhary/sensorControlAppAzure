@@ -1,0 +1,7 @@
+{
+  "appId": "com.sensorcontrolazure.www",
+  "appName": "SensorControl_Azure",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
